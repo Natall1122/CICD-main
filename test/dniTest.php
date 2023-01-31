@@ -31,6 +31,7 @@ class dniTest extends TestCase {
         $objeto = new dni('53890477', 'J');
         $this->assertEquals('J', $objeto->sacarLetra());
         puta
+        hola
     }*/
 
 }
